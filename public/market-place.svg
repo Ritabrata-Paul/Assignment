@@ -1,0 +1,31 @@
+<svg width="216" height="179" viewBox="0 0 216 179" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g filter="url(#filter0_d_1_1320)">
+<path d="M182 12H34C28.4772 12 24 16.4772 24 22V133C24 138.523 28.4772 143 34 143H182C187.523 143 192 138.523 192 133V22C192 16.4772 187.523 12 182 12Z" fill="white"/>
+</g>
+<path d="M172 37H41C38.2386 37 36 39.2386 36 42V57C36 59.7614 38.2386 62 41 62H172C174.761 62 177 59.7614 177 57V42C177 39.2386 174.761 37 172 37Z" fill="#F3F6F9"/>
+<rect x="45" y="46" width="12" height="8" fill="url(#pattern0)"/>
+<path d="M157.5 47H66.5C65.1193 47 64 48.1193 64 49.5C64 50.8807 65.1193 52 66.5 52H157.5C158.881 52 160 50.8807 160 49.5C160 48.1193 158.881 47 157.5 47Z" fill="#C8D2DA"/>
+<path d="M145.5 73H46.5C45.1193 73 44 74.1193 44 75.5C44 76.8807 45.1193 78 46.5 78H145.5C146.881 78 148 76.8807 148 75.5C148 74.1193 146.881 73 145.5 73Z" fill="#C8D2DA"/>
+<path d="M145.5 100H46.5C45.1193 100 44 101.119 44 102.5C44 103.881 45.1193 105 46.5 105H145.5C146.881 105 148 103.881 148 102.5C148 101.119 146.881 100 145.5 100Z" fill="#C8D2DA"/>
+<path d="M145.5 126H46.5C45.1193 126 44 127.119 44 128.5C44 129.881 45.1193 131 46.5 131H145.5C146.881 131 148 129.881 148 128.5C148 127.119 146.881 126 145.5 126Z" fill="#C8D2DA"/>
+<rect x="173" y="24" width="7" height="7" fill="url(#pattern1)"/>
+<defs>
+<filter id="filter0_d_1_1320" x="0" y="0" width="216" height="179" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="12"/>
+<feGaussianBlur stdDeviation="12"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.537255 0 0 0 0 0.537255 0 0 0 0 0.537255 0 0 0 0.09 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_1320"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_1320" result="shape"/>
+</filter>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_1_1320" transform="scale(0.0833333 0.125)"/>
+</pattern>
+<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_1_1320" transform="scale(0.142857)"/>
+</pattern>
+<image id="image0_1_1320" width="12" height="8" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAICAYAAADN5B7xAAAABHNCSVQICAgIfAhkiAAAAIJJREFUGFdjlCncxUAkKAOqq2MkUkMaUPFMIG4jRkM6UOEMIC4A4okgDYlAxkIg/ofFaTCTwYpB8iAN/4H0AyBWRNOAYjJMDqRBCsh5CsTXgFgbKpEJpKcBcSEQT0A2COYHEaDgayA+AsRroIrgzsCmASQmDMT3gJgPiEFun43FTwwAYbAgusWlDcgAAAAASUVORK5CYII="/>
+<image id="image1_1_1320" width="7" height="7" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABHNCSVQICAgIfAhkiAAAAHNJREFUCFtjPHHp1nIGBoZ+ID4FxDBgCmQUMwIlXYGMTiDOA+IjQGwNxFOAuBwkCVJtAZXcDqQ9oJLHYZIgBQ5AvB+IQSbtAQnAJEF2FADxXiB2AuJJIDeAJEGcXqjkQSBtC5UsBUmuAHImAvFxmFNhbgAAW5wlDJEc1BYAAAAASUVORK5CYII="/>
+</defs>
+</svg>

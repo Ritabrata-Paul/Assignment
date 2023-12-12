@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  --font-segoe-ui: "Segoe UI";
+  --font-size-base: 1rem;
+  --font-size-smi: .81rem;
+  --font-size-sm: .88rem;
+  --font-size-mini: .94rem;
+  --font-size-13xl: 2rem;
+  --font-size-11xl: 1.88rem;
+  --font-size-lg: 1.13rem;
+  --font-size-5xl: 1.5rem;
+  --font-size-21xl: 2.5rem;
+  --font-size-xl: 1.25rem;
+  --font-size-9xs: .25rem;
+  --font-size-6xs: .44rem;
+  --font-size-7xs: .38rem;
+  --font-size-3xl: 1.38rem;
+  --font-size-8xs: .31rem;
+  --font-size-10xs: .19rem;
+  --font-size-5xs: .5rem;
+  --font-size-33xl: 3.25rem;
+  --color-white: #fff;
+  --color-darkslategray-100: #4b5259;
+  --color-darkslategray-200: #444;
+  --color-darkslategray-300: #373845;
+  --color-darkslategray-400: #37343a;
+  --color-lightslategray: #8c97ad;
+  --color-dimgray: #575b63;
+  --color-darkgray-100: #99a3b0;
+  --color-darkgray-200: #9e9e9d;
+  --color-lightgray-100: #c8d2da;
+  --color-steelblue: #3a88ab;
+  --color-mediumslateblue: #635ee3;
+  --color-lightcoral: #fd8983;
+  --color-darkslateblue-100: #004383;
+  --color-midnightblue: #0d0b3f;
+}
+
+/*# sourceMappingURL=index.689f5f05.css.map */
